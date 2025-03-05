@@ -1,5 +1,12 @@
 # Flavour-Fusion-AI-Driven-Recipe-Blogging
 
+# Deployment Link
+
+# Video Link
+https://drive.google.com/file/d/1aH5ULD6Dt_D_K6syGI_mwOK3pbVaQU9k/view?usp=sharing
+# Document Link
+https://docs.google.com/document/d/1OM0k1gx8BDSR3nf4iojALUequhI1behv/edit?usp=sharing&ouid=107275846214012900487&rtpof=true&sd=true
+
 Category: Cloud Application Development
 
 Skills Required: Machine Learning
