@@ -1,7 +1,7 @@
 # Flavour-Fusion-AI-Driven-Recipe-Blogging
 
 # Deployment Link
-
+https://flavour-fusion-ai-driven-recipe-blogging-yfkaqo3kccdjgo47b7ntx.streamlit.app/
 # Video Link
 https://drive.google.com/file/d/1aH5ULD6Dt_D_K6syGI_mwOK3pbVaQU9k/view?usp=sharing
 # Document Link
